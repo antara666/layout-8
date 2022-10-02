@@ -1,0 +1,82 @@
+*{
+margin: 0;
+}
+header{
+    background-color: rgb(69, 86, 107);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
+.navigation{
+    height: 70px;
+    overflow: hidden;
+}
+.nav_one{
+    background-color: rgba(106, 124, 146, 0.926);
+    color: aliceblue;
+    text-align: center;
+    height: 70px;
+    width: 33.3%;
+    float: left;
+}
+.nav_two{
+    background-color: rgba(75, 91, 110, 0.926);
+    color: aliceblue;
+    text-align: center;
+    height: 70px;
+    width: 33.3%;
+    float: left;
+}
+.nav_three{
+    background-color: rgba(106, 124, 146, 0.926);
+    color: aliceblue;
+    text-align: center;
+    height: 70px;
+    width: 33.3%;
+    float: left;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: rgb(189, 255, 127);
+    color: aliceblue;
+    text-align: center;
+    height: 500px;
+    width: 70%;
+    float: left;
+}
+.right_content{
+    background-color: rgb(55, 69, 87);
+    color: aliceblue;
+    text-align: center;
+    height: 500px;
+    width: 30%;
+    float: right;
+}
+.top{
+    background-color: rgba(124, 145, 177, 0.955);
+    color: aliceblue;
+    text-align: center;
+    height: 250px;
+    width: 100%;
+}
+.bottom{
+    background-color: rgba(153, 175, 208, 0.97);
+    color: aliceblue;
+    text-align: center;
+    height: 250px;
+    width: 100%;
+}
+.summary{
+    background-color: rgba(75, 91, 110, 0.926);
+    color: aliceblue;
+    text-align: center;
+    height: 70px;
+}
+footer{
+    background-color:rgb(69, 86, 107);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
